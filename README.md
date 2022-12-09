@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @i-jaffer
-- 👀 I’m interested in ...
+- 👀 I’m interested in
   - embedded
   - robot
   - rt-thread
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
   - I'm always learning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
   - erevyone who loves technology and has a passion.
-- 📫 How to reach me ...
+- 📫 How to reach me
   - You can reach me through my email @jaffer.work@foxmail.com
 
 <!---
